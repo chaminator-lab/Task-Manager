@@ -6,7 +6,7 @@ echo "--------------------"
 add-chapter-in-module(){
      read -p "Enter a Chapter to Add   :  " chapter
      mkdir -p /home/chaminator/bash-scripts/Finals-Roadmap/$name
-     echo "$chapter" >> /home/chaminator/bash-scripts/Finals-Roadmap/$name/$chapter.txt
+     echo "" >> /home/chaminator/bash-scripts/Finals-Roadmap/$name/$chapter.txt
 }
 case $name in
     Anglais1)
