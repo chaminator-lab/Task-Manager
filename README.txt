@@ -1,6 +1,6 @@
 READ ME
 
-This Task manager helps you create a task list its my first bash script
+This Task manager helps you create a task list 
 
 it asks you to enter a new task or leave the programme*[Yy/Nn]
 once the task entered it asks you if you want to commit it or not[Yy/Nn] 
